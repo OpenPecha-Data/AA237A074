@@ -1,0 +1,37 @@
+segment_sources:
+  P38FD5650:
+    type: origin_type
+    relation: translation
+    language: en
+  P8FB5AA41:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  752bfa72fece40739048ceb4b377f584:
+    P38FD5650: 2ecd4d1fb5854e448ebb6041b4bd85e2
+    P8FB5AA41: a5b201f31c5d4eeb9dcec62ddeadb678
+  b8220fd27b9e4f70baaba21876170d51:
+    P38FD5650: c6e7011367a4417fa3d4ff0d87a2d503
+    P8FB5AA41: 72001e28be0944279aa5d55e1b21c398
+  706f549e3b504c01a708d4e18fe8f1bb:
+    P38FD5650: 8465cc4b6be646db97fcf2f9d0e2e925
+    P8FB5AA41: fae9ad9ef6044eb7879a9aa96efc53b6
+  79f485e7f5174071944c10e44a2870a0:
+    P38FD5650: f0a77d715da945ebb4b73cffd575b47a
+    P8FB5AA41: 306334c9a1bc4ca7adc19fa5318a65dc
+  e95dd82c4e104db2a7c761cf4078c296:
+    P38FD5650: a28400514da248928b69a3362b41aaae
+    P8FB5AA41: 093da4de82434e10a5c46e8501d6cefb
+  b8b1de751b9540769902b1bad6c8ca8d:
+    P38FD5650: 11fa91d0d6cc43878696b7a1317df19a
+    P8FB5AA41: 03764d1b977d4f7fafa8510ffc6cc04f
+  3f0120dfcf8e4e499b432da78a6d59a7:
+    P38FD5650: 05495032e6ae44c5a0368cae776f7740
+    P8FB5AA41: 8a7df0a3bf69458693fc2fb0dc4c0585
+  ebcb0126a8164e7fb7bd7fe4dc48b2d7:
+    P38FD5650: 918cb45b0f654588b19635cf48c954be
+    P8FB5AA41: 46b3073074b544079282413572e3a63e
+  a9f98bb05a9544a3820dd5dfee4969ab:
+    P38FD5650: a50a5f2df4684d90a58d9e9b3ff2126d
+    P8FB5AA41: 0d2e5a2feab046a5a1f940f8bf86328d

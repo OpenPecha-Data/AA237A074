@@ -1,0 +1,33 @@
+segment_sources:
+  P38FD5650:
+    type: origin_type
+    relation: translation
+    language: en
+  P48065DA0:
+    type: origin_type
+    relation: translation
+    language: es
+  P2472344E:
+    type: origin_type
+    relation: translation
+    language: fr
+  P8FB5AA41:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  75b4cbd7a80e4e2baf927a762641f1e2:
+    P38FD5650: 8ba30a0a0ec94bb5a8568e64842d4e11
+    P48065DA0: 3aae537a4da244059d0d4a111fb2362a
+    P2472344E: b5981ac73d5a4c70931f6b4f24a7786e
+    P8FB5AA41: 4ee86b057e4243d58753d5b4688f9f2b
+  6e392519d4cf49438dd86ced7f1a07b9:
+    P38FD5650: 4d5884bb421f4e328eeb959317a40990
+    P48065DA0: ad373952539c4b6f892df11640ff3873
+    P2472344E: 3d7e06ef7b874e6bb66ab429ead59067
+    P8FB5AA41: 0b0136f08f3442739dc1f0c75082b189
+  bb4781aecbb0473fbd3c068c76d57082:
+    P38FD5650: 19d33d9d935d4914a024b1d6bdc53a56
+    P48065DA0: 9b78291218d048238984aef25f1f9d0e
+    P2472344E: d8ad7670a3484bbe8149e48a02988fb8
+    P8FB5AA41: 09b45a53211a4a4988f2d2fd4f81489a

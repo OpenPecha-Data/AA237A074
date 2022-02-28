@@ -1,0 +1,22 @@
+segment_sources:
+  P38FD5650:
+    type: origin_type
+    relation: translation
+    language: en
+  P20E3617D:
+    type: origin_type
+    relation: translation
+    language: pt
+  P8FB5AA41:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  78e56439f6684431979aed482368dfb5:
+    P38FD5650: d97e6b91ed6847ce901e82c8cfa647a0
+    P20E3617D: 384e0959b7c24390bdde0c3168abe86b
+    P8FB5AA41: 4935d930eddd4a6e8ec26ae826f83a9a
+  6625e05f92474d5d921d866330bc9b96:
+    P38FD5650: e09c842a76134d01b6b086e45ba3f6e7
+    P20E3617D: 262b58fa7b08411f8914f1e10f6558b1
+    P8FB5AA41: 1d25d240c49f41d4a983f048acb795f9
